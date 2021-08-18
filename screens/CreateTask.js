@@ -26,7 +26,7 @@ const { width: vw } = Dimensions.get('window');
 
 const styles = StyleSheet.create({
   createTaskButton: {
-    width: 252,
+    width: 20,
     height: 48,
     alignSelf: 'center',
     marginTop: 40,
